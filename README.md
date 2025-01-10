@@ -31,3 +31,5 @@ Greatest Values: Tracks the tickers and their corresponding values for the great
 Results Output: Populates the summary table and greatest values section with the calculated data.
 
 Conditional Formatting: Applies formatting to the "Quarterly Change" column to visually distinguish positive and negative changes.
+
+References : Used Google to help with GetQuarter Function and Data Range Conditional formatting.
